@@ -7,7 +7,7 @@ You just need to run the following commands:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/filetopaixao/Omnistack-11---Be-the-Hero.git
+$ git clone https://github.com/filetopaixao/Minesweeper-React-Native.git
 
 # Install dependencies
 $ npm install
