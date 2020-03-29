@@ -1,7 +1,7 @@
 Minesweeper game for mobile created with [**React Native**](https://reactnative.dev/)
 
 ## :information_source: How to use this project
-To clone and run this application, you'll need Git, NodeJS and Yarn.
+To clone and run this application, you'll need Git and NodeJS.
 
 You just need to run the following commands:
 
